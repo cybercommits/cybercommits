@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00D9FF&height=230&section=header&text=IVAN%20NG&fontSize=65&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Software%20Engineering%20%7C%20NYC&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:15394F&height=230&section=header&text=IVAN%20NG&fontSize=65&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Software%20Engineering%20%7C%20NYC&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
