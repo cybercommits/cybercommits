@@ -25,6 +25,37 @@
 
 <div align="center">
 
+## `$ whoami`
+
+</div>
+
+```bash
+> ivan@nyc:~$ cat profile.txt
+
+  NAME        Ivan Ng
+  LOCATION    New York City
+  ROLE        CS Undergraduate — Hunter College, CUNY
+  HONORS      Daedalus Scholar
+  FELLOWSHIP  Break Through Tech AI Studio
+  CERT        Cornell University — ML Foundations [IN PROGRESS]
+  PRIOR       Drupal Dev & Web Design Intern @ Art Beyond Sight
+  INCOMING    America Needs You Fellow — Fall 2026
+  TARGET      Software Engineering / Machine Learning internships
+  EMAIL       ivanng.mail@gmail.com
+  LINKEDIN    linkedin.com/in/ivan-ng-cs/
+  STATUS      ONLINE — open to collaboration
+
+> ivan@nyc:~$ _
+```
+
+I build models and the things around them. Most of my work sits where the math meets the product: logistic regression and neural nets on real datasets, plus the full-stack side that turns a notebook into something people can actually use. I care more about *why* a model works than getting it to run.
+
+**Reach me:** [ivanng.mail@gmail.com](mailto:ivanng.mail@gmail.com) · [LinkedIn](https://linkedin.com/in/ivan-ng-cs/)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=3" width="100%" />
+
 ## ⚡ ARSENAL
 
 **Languages**
@@ -83,22 +114,15 @@
 
 <sub>COMING SOON! </sub>
 
-<br><br>
-
 ## 🗂 PROJECT INDEX
 
 <sub>COMING SOON! </sub>
 
 ## 📊 SYSTEM DIAGNOSTICS
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cybercommits&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=00D9FF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercommits&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" />
-
 <img src="https://streak-stats.demolab.com?user=cybercommits&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybercommits&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=cybercommits&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
