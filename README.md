@@ -164,6 +164,9 @@ I build models and the things around them. Most of my work sits where the math m
 <a href="mailto:ivanng.mail@gmail.com"><img src="https://img.shields.io/badge/MESSAGE-0D1117?style=for-the-badge&logo=maildotru&logoColor=00D9FF&labelColor=0D1117" /></a>
 
 <sub><code>Always down to talk ML, math, or where they're headed!</code></sub>
+<br>
+
+*- Ivan Ng*
 
 </div>
 
