@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## `$ whoami`
+## `$ who-am-i?`
 
 </div>
 
