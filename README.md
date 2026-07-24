@@ -120,6 +120,9 @@ I build models and the things around them. Most of my work sits where the math m
 
 ## 📊 SYSTEM DIAGNOSTICS
 
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cybercommits&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=cybercommits&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=00D9FF" />
+
 <img src="https://streak-stats.demolab.com?user=cybercommits&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybercommits&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" />
@@ -160,7 +163,7 @@ I build models and the things around them. Most of my work sits where the math m
 <a href="https://linkedin.com/in/ivan-ng-cs/"><img src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117" /></a>
 <a href="mailto:ivanng.mail@gmail.com"><img src="https://img.shields.io/badge/MESSAGE-0D1117?style=for-the-badge&logo=maildotru&logoColor=00D9FF&labelColor=0D1117" /></a>
 
-<sub><code>always down to talk ML, math, or where they're headed</code></sub>
+<sub><code>Always down to talk ML, math, or where they're headed</code></sub>
 
 </div>
 
